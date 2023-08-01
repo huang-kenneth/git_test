@@ -1,0 +1,3 @@
+Hello World.
+
+Trying out Linux. It's pretty intuitive so far. 
